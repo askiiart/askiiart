@@ -1,11 +1,12 @@
 **- 👋 Hi, I’m @askiiart**
 
-**- 👀 I’m interested in ... **
+**- 👀 I’m interested in ...**
+
 Machine Learning and AI
 
-**- 🌱 I’m currently learning ... **
+**- 🌱 I’m currently learning ...**
 
-**- 💞️ I’m looking to collaborate on ... **
+**- 💞️ I’m looking to collaborate on ...**
 
 **- 📫 How to reach me**
 
