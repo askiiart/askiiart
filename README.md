@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Nothing right now, sorry.
 - 📫 How to reach me ... Contact me via my college email `benjamin.zimmerman@my.tccd.edu`
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=askiiart)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=askiiart&show_icons=true&theme=dark)
 
 <!---
 askiiart/askiiart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
