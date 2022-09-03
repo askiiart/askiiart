@@ -1,10 +1,16 @@
 **- 👋 Hi, I’m @askiiart**
+
 **- 👀 I’m interested in ... **
 Machine Learning and AI
+
 **- 🌱 I’m currently learning ... **
+
 **- 💞️ I’m looking to collaborate on ... **
+
 **- 📫 How to reach me**
+
 Contact me on Discord : len(str)#5353
+
 Just be sure to tell me you found me on GitHub, it helps filter out the spam.
 
 ![Askiiart's GitHub stats](https://github-readme-stats.vercel.app/api?username=askiiart&show_icons=true&theme=dark)
