@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @askiiart
-- 👀 I’m interested in ... 
+**- 👋 Hi, I’m @askiiart**
+**- 👀 I’m interested in ... **
 Machine Learning and AI
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me
+**- 🌱 I’m currently learning ... **
+**- 💞️ I’m looking to collaborate on ... **
+**- 📫 How to reach me**
 Contact me on Discord : len(str)#5353
 Just be sure to tell me you found me on GitHub, it helps filter out the spam.
 
