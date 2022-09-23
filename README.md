@@ -1,8 +1,7 @@
 **- 👋 Hi, I’m @askiiart**
 
 **- 👀 I’m interested in ...**
-
-Machine Learning and AI
+Playing around with AIs, and just programming in general.
 
 **- 🌱 I’m currently learning ...**
 
