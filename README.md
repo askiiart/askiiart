@@ -9,12 +9,8 @@ Playing around with AIs, and just programming in general.
 
 **- 📫 How to reach me**
 
-Contact me on Discord : len(str)#5353
-
-Just be sure to tell me you found me on GitHub, it helps filter out the spam.
-
-![Askiiart's GitHub stats](https://github-readme-stats.vercel.app/api?username=askiiart&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askiiart)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+![askiiart's GitHub stats](https://github-readme-stats.vercel.app/api?username=askiiart&show_icons=true&theme=dark&bg_color=00000000&hide_border=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askiiart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 askiiart/askiiart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
