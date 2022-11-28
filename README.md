@@ -13,6 +13,8 @@ Playing around with AIs, and just programming in general.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askiiart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/askiiart" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/askiiart?dark&removeLink" alt="askiiart’s GitHub image" width="600"/>
+
 <!---
 askiiart/askiiart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
