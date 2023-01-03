@@ -15,6 +15,8 @@ Playing around with AIs, and just programming in general.
 
 <a href="https://github.com/askiiart" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/askiiart?dark&removeLink" alt="askiiart’s GitHub image" width="600"/>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=askiiart.askiiart&left_color=orange&right_color=blue)
+
 <!---
 askiiart/askiiart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
