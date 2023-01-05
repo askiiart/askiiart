@@ -13,6 +13,7 @@ Playing around with AIs, and just programming in general.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askiiart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![askiiart's GitHub image](https://crd.so/i/askiiart?dark&removeLink)](https://github.com/askiiart)
 <a href="https://github.com/askiiart" target="_blank" rel="noopener noreferrer"><img src="https://crd.so/i/askiiart?dark&removeLink" alt="askiiart’s GitHub image" width="600"/>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=askiiart.askiiart&left_color=orange&right_color=blue)
