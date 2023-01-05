@@ -1,13 +1,7 @@
-**- 👋 Hi, I’m @askiiart**
+I code stuff. If you've got any questions or anything, feel free to contact me.
 
-**- 👀 I’m interested in ...**
-Playing around with AIs, and just programming in general.
-
-**- 🌱 I’m currently learning ...**
-
-**- 💞️ I’m looking to collaborate on ...**
-
-**- 📫 How to reach me**
+- Discord: askiiart#5353 (preferred, faster response)
+- Email: benzimm07@gmail.com
 
 ![askiiart's GitHub stats](https://github-readme-stats.vercel.app/api?username=askiiart&show_icons=true&theme=dark&bg_color=00000000&hide_border=false)
 
