@@ -1,3 +1,6 @@
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 I code stuff. If you've got any questions or anything, feel free to contact me.
 
 - Discord: askiiart#5353 (preferred, faster response)
