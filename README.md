@@ -3,8 +3,7 @@
 
 I code stuff. If you've got any questions or anything, feel free to contact me.
 
-- Discord: askiiart#5353 (preferred, faster response)
-- Email: benzimm07@gmail.com
+- Discord: askiiart#5353
 
 <details>
 <summary>More stuff</summary>
