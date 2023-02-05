@@ -1,3 +1,11 @@
+# Important
+
+**I now do most of my stuff on my own self-hosted Gitea instance**, so go *[here](https://git.plantsfarmus.duckdns.org/askiiart)*. 
+
+I'll try to keep my more important repos updated here, but go to my self-hosted instance for up-to-date stuff.
+
+# The rest
+
 ![GitHub Snake Light](https://raw.githubusercontent.com/askiiart/askiiart/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/askiiart/askiiart/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
