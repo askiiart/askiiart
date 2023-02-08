@@ -24,6 +24,8 @@ I code stuff. If you've got any questions or anything, feel free to contact me.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=askiiart.askiiart&left_color=orange&right_color=blue)
 
+<a rel="me" href="https://infosec.exchange/@askiiart">Mastodon</a>
+
 <!---
 askiiart/askiiart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
