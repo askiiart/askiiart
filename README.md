@@ -12,6 +12,7 @@ I'll try to keep my more important repos updated here, but go to my self-hosted 
 I code stuff. If you've got any questions or anything, feel free to contact me.
 
 - Discord: askiiart#5353
+- <a rel="me" href="https://infosec.exchange/@askiiart">Mastodon</a>
 
 <details>
 <summary>More stuff</summary>
@@ -23,8 +24,6 @@ I code stuff. If you've got any questions or anything, feel free to contact me.
 </details>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=askiiart.askiiart&left_color=orange&right_color=blue)
-
-<a rel="me" href="https://infosec.exchange/@askiiart">Mastodon</a>
 
 <!---
 askiiart/askiiart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
