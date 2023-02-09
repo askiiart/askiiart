@@ -12,7 +12,6 @@ I'll try to keep my more important repos updated here, but go to my self-hosted 
 I code stuff. If you've got any questions or anything, feel free to contact me.
 
 - Discord: askiiart#5353
-- <a rel="me" href="https://infosec.exchange/@askiiart">Mastodon</a>
 
 <details>
 <summary>More stuff</summary>
