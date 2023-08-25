@@ -1,6 +1,6 @@
 # Important
 
-**I now do most of my stuff on my own self-hosted Gitea instance**, so go *[here](https://git.plantsfarmus.duckdns.org/askiiart)*. 
+**I now do most of my stuff on my own self-hosted Gitea instance**, so go *[here](https://git.askiiart.net/askiiart)*. 
 
 I'll try to keep my more important repos updated here, but go to my self-hosted instance for up-to-date stuff.
 
